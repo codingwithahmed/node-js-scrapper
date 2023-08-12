@@ -1,0 +1,14 @@
+{
+  "name": "node-js-scrapper",
+  "version": "1.0.0",
+  "description": "My node js sceapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node-js-scrapper"
+  ],
+  "author": "Ahmed Farooq",
+  "license": "ISC"
+}
