@@ -59,3 +59,6 @@ This project provides a basic web scraper built with Node.js that allows you to 
 - puppeteer: ^21.0.3
 - request: ^2.88.2
 - request-promise: ^4.2.6
+
+### Made By Coding with Ahmed 
+    [Youtube](https://www.youtube.com/channel/UCRBGE9Hp-mpKoe8tR7a8xsg)
